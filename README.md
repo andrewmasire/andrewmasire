@@ -91,8 +91,12 @@ My goal is to understand how computer systems and networks work, identify securi
 
 ### 🐧 Linux Administration Toolkit
 
-A collection of Bash scripts for practising Linux administration and automating common system tasks.
+### 🐧 Linux Administration Toolkit
 
+A practical collection of Bash scripts for Linux administration,
+file permissions, process monitoring, and network diagnostics.
+
+[View Repository](https://github.com/andrewmasire/linux-admin-toolkit)
 **Planned features:**
 
 * File and directory management.
